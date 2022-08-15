@@ -1,8 +1,8 @@
 ---
 title: "TakeHomeExamPart-2 Q3"
-author: "Nittala Venkata Sai Aditya"
+author: "Srividya Rayaprolu"
 output: word_document
-date: "2022-08-08"
+date: "2022-08-15"
 ---
 
 ## Q3: Visual story telling part 1: green buildings
